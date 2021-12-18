@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.img-block{
+    text-align: center;
+}
+h1{
+    font-size: 32px;
+    color: white;
+}
+address{
+    font-size: 20px;
+    color: white;
+}
+h2{
+    color: #57BB67;
+    font-size: 26px;
+}
+h3{
+    color: white;
+    font-size: 20px;
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 18px;
+}
+h6{
+    color: white;
+    font-size: 12px;
+}
+footer{
+   
+}
+.link{
+    display: inline-block;
+}
+.social{
+    color: red;
+    text-decoration: underline;
+    font-size: 20px;
+}
