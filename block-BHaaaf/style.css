@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: red;
+    font-size: 30px;
+}
+.add{
+    color: green;
+    font-size: 32px;
+}
